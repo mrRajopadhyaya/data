@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 24.44,
+      "description": "this is very good laptop",
+      "imgUrl": "http://placehold.it/700x400"
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "price": 24.44,
+      "description": "this is very good mouse",
+      "imgUrl": "http://placehold.it/700x400"
+    },
+    {
+      "id": 3,
+      "name": "keyboard",
+      "price": 24.44,
+      "description": "this is very good mouse",
+      "imgUrl": "http://placehold.it/700x400"
+    },
+    {
+      "id": 4,
+      "name": "bottle",
+      "price": 24.44,
+      "description": "this is very good mouse",
+      "imgUrl": "http://placehold.it/700x400"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "price": 24.44,
+      "description": "this is very good mouse",
+      "imgUrl": "http://placehold.it/700x400"
+    }
+  ]
+}
