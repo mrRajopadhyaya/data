@@ -39,13 +39,13 @@
 },{
   "modules":[{
     "id":"1",
-    "moduleName":'module 1'
+    "moduleName":"module 1"
   },{
     "id":"2",
-    "moduleName":'module 2'
+    "moduleName":"module 2"
   },{
     "id":"3",
-    "moduleName":'module 3'
+    "moduleName":"module 3"
   }]
 
 }
