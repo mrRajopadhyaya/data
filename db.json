@@ -1,51 +1,24 @@
 {
-  "items": [
+  "modules": [
     {
       "id": 1,
-      "name": "laptop",
-      "price": 24.44,
-      "description": "this is very good laptop",
-      "imgUrl": "http://placehold.it/700x400"
+      "name": "module 1",
     },
     {
       "id": 2,
-      "name": "mouse",
-      "price": 24.44,
-      "description": "this is very good mouse",
-      "imgUrl": "http://placehold.it/700x400"
+      "name": "module 2",
     },
     {
       "id": 3,
-      "name": "keyboard",
-      "price": 24.44,
-      "description": "this is very good mouse",
-      "imgUrl": "http://placehold.it/700x400"
+      "name": "module 3",
     },
     {
       "id": 4,
-      "name": "bottle",
-      "price": 24.44,
-      "description": "this is very good mouse",
-      "imgUrl": "http://placehold.it/700x400"
+      "name": "module 4",
     },
     {
       "id": 5,
-      "name": "",
-      "price": 24.44,
-      "description": "this is very good mouse",
-      "imgUrl": "http://placehold.it/700x400"
+      "name": "module 5",
     }
   ],
-},{
-  "modules":[{
-    "id":"1",
-    "moduleName":"module 1"
-  },{
-    "id":"2",
-    "moduleName":"module 2"
-  },{
-    "id":"3",
-    "moduleName":"module 3"
-  }]
-
 }
