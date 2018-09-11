@@ -38,14 +38,14 @@
   ],
 },{
   "modules":[{
-    id:"1",
-    moduleName:'module 1'
+    "id":"1",
+    "moduleName":'module 1'
   },{
-    id:"2",
-    moduleName:'module 2'
+    "id":"2",
+    "moduleName":'module 2'
   },{
-    id:"3",
-    moduleName:'module 3'
+    "id":"3",
+    "moduleName":'module 3'
   }]
 
 }
