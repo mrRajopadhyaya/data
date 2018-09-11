@@ -35,5 +35,17 @@
       "description": "this is very good mouse",
       "imgUrl": "http://placehold.it/700x400"
     }
-  ]
+  ],
+},{
+  "modules":[{
+    id:"1",
+    moduleName:'module 1'
+  },{
+    id:"2",
+    moduleName:'module 2'
+  },{
+    id:"3",
+    moduleName:'module 3'
+  }]
+
 }
